@@ -20,6 +20,7 @@ namespace GitTestDemo
         private void button1_Click(object sender, EventArgs e)
         {
             MessageBox.Show("Puco");
+            MessageBox.Show("小贾到此一游");
         }
     }
 }
