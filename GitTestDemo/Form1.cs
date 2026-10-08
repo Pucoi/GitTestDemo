@@ -21,6 +21,12 @@ namespace GitTestDemo
         {
             MessageBox.Show("Puco");
             MessageBox.Show("小贾到此一游");
+            MessageBox.Show("小贾到此二游");
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }
