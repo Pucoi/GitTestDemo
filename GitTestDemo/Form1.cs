@@ -22,5 +22,15 @@ namespace GitTestDemo
             MessageBox.Show("Puco");
             MessageBox.Show("小贾到此一游");
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Puco添加的第二个按钮");
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            MessageBox.Show("Puco写的窗体加载事件");
+        }
     }
 }
