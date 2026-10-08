@@ -21,6 +21,7 @@ namespace GitTestDemo
         {
             MessageBox.Show("Puco");
             MessageBox.Show("小贾到此一游");
+            MessageBox.Show("小贾到此二游");
         }
 
         private void button2_Click(object sender, EventArgs e)
